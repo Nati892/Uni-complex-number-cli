@@ -1,0 +1,29 @@
+
+		print_comp A
+print_comp 	B
+print_comp 		C
+print_comp     D
+print_comp 				E
+print_comp  F
+read_comp A,	 4.189675, -2.75
+read_comp B,	 -0.1, +8
+read_comp  C, -0.1,	  -7.2
+read_comp C, -0.1, -7.5
+print_comp  A
+print_comp 		B
+print_comp	 C
+add_comp A, B
+add_comp B	 ,A
+add_comp A,C
+add_comp B,C
+abs_comp A
+mult_comp_comp B,D
+mult_comp_comp B, A
+sub_comp A,B
+
+mult_comp_img A,734582.948709382
+mult_comp_real B,		0.1111
+
+stop
+
+

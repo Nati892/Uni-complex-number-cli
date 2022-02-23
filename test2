@@ -1,0 +1,33 @@
+read_comp A,5,5,6
+read_comp A,5,.5
+abs_compA
+sub_Comp A,A
+sub_comp A,,C
+sub_comp A,H
+print_comp a
+print_comp 97
+print_comp 100
+print_comp AA
+print_comp AB
+print_comp BA
+print_comp B a
+print_comp B A
+print_comp B,
+print_comp B,A
+abs_comp A		,
+stopp
+stop	,
+stop      ,,
+,,
+,
+\n
+/d
+\d
+//
+\\
+try_this
+stopy
+stop y
+stop A
+
+
